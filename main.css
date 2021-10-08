@@ -1,0 +1,125 @@
+/*header*/
+.salom{
+    width: 1140px;
+    margin: 0 auto;
+}
+body{
+    font-family: sans-serif;
+}
+.header_images{
+    display: inline-block;
+    vertical-align: middle;
+}
+.header_images img {
+    width: 64px;
+}
+
+.header_clas{
+    display: inline-block;
+    vertical-align: middle;
+}
+.header_li{
+    display: inline-block;
+    padding: 10px;
+}
+   .header_li a{
+       color: #05364d;
+       text-decoration: none;
+       text-transform: uppercase;
+       font-size: 12px;
+       font-weight: 500;
+       cursor: pointer;
+       z-index: 1;
+       
+   }
+   .header_li a:hover {
+       color: #efb6df;
+   }
+   .header_li.active{
+      color: #efb6df;
+   }
+
+
+
+
+
+
+/*Html haqida*/
+.html_nima {
+   text-align: center;
+   text-transform: uppercase;
+   color: black;
+   padding-top: 40px;
+
+
+}
+.html_rasm img {
+    display: inline-block;
+    width: 450px;
+   vertical-align: middle;
+    padding-bottom: 30px;
+}
+.html_haqida {
+    background-color: #1E90FF;
+    border-radius: 15px;
+}
+.button{
+    display: inline-block;
+  margin-top: 30px;
+  border: none;
+  background-color: #1c44e4; 
+  color: white;
+  font-weight: 600;
+  font-size: 14px;
+  padding: 10px 40px;
+  cursor: pointer; 
+  margin-right: 20px;
+  text-align: center;
+}
+.button:hover{
+   background-image: linear-gradient( red,black,pink);
+}
+/*main section*/
+.video{
+    display: inline-block;
+    padding-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.main_section{
+    display: inline-block;
+    vertical-align: middle;
+
+}
+    /*manoli*/
+.manoli_sozlar {
+    margin: 2px solid black
+}
+.xayr {
+    text-align: center;
+
+}
+.qoshimcha{
+    background-image: linear-gradient(red blue,brown);
+    margin: 100px;
+}
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*ruhlantiruvchi*/
